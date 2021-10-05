@@ -9,4 +9,3 @@ def hasL(w):
     else: 
         return False 
 
-print(hasL("alligator"))
